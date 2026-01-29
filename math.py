@@ -19,3 +19,4 @@ B = (-V1) * math.sin(angle) + V2 * math.cos(angle)
 
 print(truncate(A))
 print(truncate(B))
+input("press to enter clear")
